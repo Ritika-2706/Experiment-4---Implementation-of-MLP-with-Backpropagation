@@ -168,23 +168,31 @@ print(confusion_matrix(Y_test,predictions))
 print(classification_report(Y_test,predictions))
 ```
 
-## OUTPUT 
+## OUTPUT
+
 ### First five rows:
-![Output](N!.PNG)
+![Output](N!.png)
+
 ### First five rows of X:
-![Output](N2.PNG)
+![Output](N2.png)
+
 ### First five rows of Y:
-![Output](N3.PNG)
+![Output](N3.png)
+
 ### Unique values of Y:
-![Output](N4.PNG)
+![Output](N4.png)
+
 ### Transforming Categorical to numerical values:
-![Output](N5.PNG)
+![Output](N5.png)
+
 ### Predictions:
-![Output](N6.PNG)
-### Confusion matrix:
-![Output](N7.PNG)
+![Output](N6.png)
+
 ### Classification report:
-![Output](N8.PNG)
+![Output](N7.png)
+
+### Confusion matrix:
+![Output](N8.png)
 
 ## RESULT
 
